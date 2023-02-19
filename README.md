@@ -13,4 +13,4 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 <br />
 
-[![Allename's github stats](https://github-readme-stats.vercel.app/api?username=Allenamea&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/murewaashiru/github-readme-stats)
+[![Allename's github stats](https://github-readme-stats.vercel.app/api?username=Allename&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/murewaashiru/github-readme-stats)
