@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer experienced in bringing to life websites and web applications with a strict DRY code policy. I'm 
+The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer experienced in bringing to life pixel-perfect websites and web applications with a strict DRY code policy. If you've got a website dream, I can turn it into a reality.  
 
 
 ### 🧰 Languages and Tools
@@ -12,6 +12,8 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
 ![Styled Components](https://img.shields.io/badge/-styledcomponents-black?logo=styledcomponents&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 <br />
+
+<br/>
 
 ### 📊 Github Stats
 
