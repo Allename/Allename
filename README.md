@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer experienced in bringing to life websites and web applications with a strict DRY code policy. I'm 
 
