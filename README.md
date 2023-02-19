@@ -1,3 +1,5 @@
+![Header](https://github.com/Allename/Allename/blob/main/itachi.png)
+
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer experienced in bringing to life pixel-perfect websites and web applications with a strict DRY code policy. If you've got a website dream, I can turn it into a reality.  
