@@ -19,15 +19,14 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
 
 ### 📊 Github Stats
 
-<!--     <div style="display: flex; align-items: center; justify-content: space-between; margin: 0 1rem;"></div>  -->
+<div style="display: flex; align-items: center; justify-content: space-between; margin: 0 1rem;">
   <a  align="left" href="https://github.com/Allename/Allename" width="250px">
     <img src="https://github-readme-stats.vercel.app/api?username=Allename&count_private=true&show_icons=true&theme=chartreuse-dark">
-<!--     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephokpala&show_icons=true&locale=en&layout=compact&theme=radical"" alt="josephokpala" /> -->
   </a>
 
   <a  align="right" href="https://github.com/Allename/github-readme-stats" width="250px" style="margin: 0 10px">
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allename&theme=chartreuse-dark" height="197px"> -->
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Allename&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" height="197px" alt="Allename" />
   </a>
+</div>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allename&theme=chartreuse-dark" alt="Allename" />
