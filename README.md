@@ -25,7 +25,7 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
 <!--     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephokpala&show_icons=true&locale=en&layout=compact&theme=radical"" alt="josephokpala" /> -->
   </a>
 
-  <a href="https://github.com/Allename/github-readme-stats" width="250px" style="margin-left: 1rem;">
+  <a href="https://github.com/Allename/github-readme-stats" width="250px" style="marginLeft: 1rem;">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allename&theme=chartreuse-dark" height="197px"> -->
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Allename&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" height="197px" alt="Allename" />
   </a>
