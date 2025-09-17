@@ -21,9 +21,9 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
 ### 📊 Github Stats
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin: 0 1rem;">
-  <a  align="left" href="https://github.com/Allename/Allename" width="250px">
+<!--   <a  align="left" href="https://github.com/Allename/Allename" width="250px">
     <img src="https://github-readme-stats.vercel.app/api?username=Allename&show_icons=true&theme=chartreuse-dark">
-  </a>
+  </a> -->
   
   <a align="left" href="https://github.com/Allename" width="250px">
   <img src="https://allename-readme-stats.vercel.app/api?username=Allename&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&cache_seconds=1800" />
@@ -32,14 +32,14 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Allename&&show_icons=true&theme=dark" alt='not-working' >
   </a> -->
 
-  <a  align="right" href="https://github.com/Allename/github-readme-stats" width="250px" style="margin: 0 10px">
+  <!-- <a  align="right" href="https://github.com/Allename/github-readme-stats" width="250px" style="margin: 0 10px">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Allename&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" height="197px" alt="Allename" />
-  </a>
+  </a> -->
   <a  align="right" href="https://github.com/Allename/github-readme-stats" width="250px" style="margin: 0 10px">
     <img  src="https://allename-readme-stats.vercel.app/api/top-langs?username=Allename&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" height="197px" alt="Allename" />
   </a>
 </div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allename&theme=chartreuse-dark" alt="Allename" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allename&theme=chartreuse-dark" alt="Allename" /> -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allename&theme=chartreuse-dark&count_private=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" alt="Allename" />
