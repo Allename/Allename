@@ -40,6 +40,6 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
   </a>
 </div>
 
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allename&theme=chartreuse-dark" alt="Allename" /> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allename&theme=chartreuse-dark" alt="Allename" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Allename&theme=chartreuse-dark&count_private=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" alt="Allename" />
