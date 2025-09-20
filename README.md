@@ -15,6 +15,7 @@ The name's Allename Anthony. I'm from Lagos, Nigeria. I'm a frontend developer e
 ![Typescript](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-black?logo=react&style=social)&nbsp;&nbsp;
 <br />
 
 
